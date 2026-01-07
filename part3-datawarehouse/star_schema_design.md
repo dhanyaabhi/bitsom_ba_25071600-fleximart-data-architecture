@@ -1,5 +1,6 @@
 
 # Star Schema Design Documentation
+# This star schema supports efficient OLAP analysis.
 
 ## Section 1: Schema Overview
 
