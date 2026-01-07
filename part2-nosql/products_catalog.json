@@ -1,0 +1,175 @@
+[
+    {
+        "product_id": "ELEC001",
+        "name": "Samsung Galaxy S21",
+        "category": "Electronics",
+        "price": 45999.0,
+        "stock": 150,
+        "specs": {
+            "ram": "8GB",
+            "storage": "128GB"
+        },
+        "reviews": [
+            {
+                "user": "U001",
+                "rating": 5,
+                "comment": "Great!",
+                "date": "2024-01-15"
+            },
+            {
+                "user": "U002",
+                "rating": 4,
+                "comment": "Good phone",
+                "date": "2024-01-18"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC002",
+        "name": "Apple iPhone 14",
+        "category": "Electronics",
+        "price": 99999.0,
+        "stock": 120,
+        "specs": {
+            "ram": "6GB",
+            "storage": "128GB"
+        },
+        "reviews": [
+            {
+                "user": "U003",
+                "rating": 4,
+                "comment": "Nice phone",
+                "date": "2024-01-16"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC003",
+        "name": "Sony WH-1000XM5 Headphones",
+        "category": "Electronics",
+        "price": 34999.0,
+        "stock": 80,
+        "specs": {
+            "color": "Black"
+        },
+        "reviews": [
+            {
+                "user": "U004",
+                "rating": 5,
+                "comment": "Excellent sound",
+                "date": "2024-01-17"
+            },
+            {
+                "user": "U005",
+                "rating": 4,
+                "comment": "Very comfortable",
+                "date": "2024-01-19"
+            }
+        ]
+    },
+    {
+        "product_id": "ELEC004",
+        "name": "Dell XPS 13 Laptop",
+        "category": "Electronics",
+        "price": 119999.0,
+        "stock": 50,
+        "specs": {
+            "ram": "16GB",
+            "storage": "512GB"
+        },
+        "reviews": []
+    },
+    {
+        "product_id": "ELEC005",
+        "name": "HP Spectre x360",
+        "category": "Electronics",
+        "price": 109999.0,
+        "stock": 60,
+        "specs": {
+            "ram": "16GB",
+            "storage": "512GB"
+        },
+        "reviews": []
+    },
+    {
+        "product_id": "FASH001",
+        "name": "Nike Running Shoes",
+        "category": "Fashion",
+        "price": 3499.0,
+        "stock": 200,
+        "specs": {
+            "size": "9",
+            "color": "Black"
+        },
+        "reviews": [
+            {
+                "user": "U006",
+                "rating": 4,
+                "comment": "Comfortable",
+                "date": "2024-01-18"
+            }
+        ]
+    },
+    {
+        "product_id": "FASH002",
+        "name": "Adidas T-shirt",
+        "category": "Fashion",
+        "price": 1999.0,
+        "stock": 300,
+        "specs": {
+            "size": "M",
+            "color": "White"
+        },
+        "reviews": []
+    },
+    {
+        "product_id": "FASH003",
+        "name": "Levi's Jeans",
+        "category": "Fashion",
+        "price": 2999.0,
+        "stock": 150,
+        "specs": {
+            "size": "32",
+            "color": "Blue"
+        },
+        "reviews": [
+            {
+                "user": "U007",
+                "rating": 5,
+                "comment": "Perfect fit",
+                "date": "2024-01-20"
+            }
+        ]
+    },
+    {
+        "product_id": "FASH004",
+        "name": "Puma Jacket",
+        "category": "Fashion",
+        "price": 4999.0,
+        "stock": 100,
+        "specs": {
+            "size": "L",
+            "color": "Red"
+        },
+        "reviews": []
+    },
+    {
+        "product_id": "FASH005",
+        "name": "Reebok Sneakers",
+        "category": "Fashion",
+        "price": 3999.0,
+        "stock": 120,
+        "specs": {
+            "size": "10",
+            "color": "White"
+        },
+        "reviews": [
+            {
+                "user": "U008",
+                "rating": 4,
+                "comment": "Nice shoes",
+                "date": "2024-01-21"
+            }
+        ]
+    }
+]

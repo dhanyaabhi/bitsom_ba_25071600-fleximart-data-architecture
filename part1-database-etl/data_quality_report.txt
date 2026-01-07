@@ -1,0 +1,40 @@
+DATA QUALITY REPORT
+
+Customers processed: 26
+Products processed : 20
+Sales processed    : 41
+
+Customers loaded    : 20
+Products loaded     : 17
+Sales loaded        : 35
+
+Duplicates Removed
+Customers: 1
+Products : 0
+Sales    : 1
+
+Missing Values (Before Cleaning)
+customer_id          0
+first_name           0
+last_name            0
+email                5
+phone                0
+city                 0
+registration_date    0
+dtype: int64
+
+product_id        0
+product_name      0
+category          0
+price             3
+stock_quantity    1
+dtype: int64
+
+order_id       0
+customer_id    3
+product_id     2
+quantity       0
+unit_price     0
+order_date     0
+status         0
+dtype: int64
