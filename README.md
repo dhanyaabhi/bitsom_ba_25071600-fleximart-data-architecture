@@ -5,6 +5,7 @@
 **Email:dhanyakr444@gmail.com** 
 **Date: 08-01-2026** 
 
+
 ## Project Overview
 
 [2-3 sentences describing what you built]
@@ -58,7 +59,7 @@ mysql -u root -p fleximart_dw < part3-datawarehouse/analytics_queries.sql
 mongosh < part2-nosql/mongodb_operations.js
 
 ## Key Learnings
-
+This project demonstrates end-to-end data architecture skills.
 The project implemented a complete ETL pipeline to extract raw CSV data, clean and transform it, and load it into MySQL tables.
 JSON files were used to organize structured data for programmatic insertion and validation.
 A star schema was designed for analytics, linking fact tables like orders with dimension tables like customers and products for easy querying.
