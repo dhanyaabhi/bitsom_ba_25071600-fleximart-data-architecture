@@ -1,5 +1,5 @@
 // mongodb_operations.js
-// MongoDB Operations for products collection
+// MongoDB Operations for product_catalog database products collection 
 
 const { MongoClient } = require("mongodb");
 
