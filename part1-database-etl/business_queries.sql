@@ -1,5 +1,5 @@
 -- Query 1: Customer Purchase History
--- Business Question: Business Question: "Generate a detailed report showing each customer's name, email, total number of orders placed, and total amount spent. Include only customers who have placed at least 2 orders and spent more than ₹5,000. Order by total amount spent in descending order."
+-- Business Question: Business Question: "Generate a detailed report showing each customer's name, email, total number of orders placed, and total amount spent. Include only customers who have placed at least two orders and spent more than ₹5,000. Order by total amount spent in descending order."
 -- Expected to return customers with 2+ orders and >5000 spent
 
 SELECT
