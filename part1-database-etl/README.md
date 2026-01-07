@@ -1,4 +1,4 @@
-Task 1: ETL Pipeline & SQL Analysis
+--- Task 1: ETL Pipeline & SQL Analysis
 Overview
 
 This task implements a complete ETL pipeline, documents a normalized relational database schema, and answers business questions using SQL for FlexiMart sales data.
